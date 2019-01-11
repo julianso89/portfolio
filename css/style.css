@@ -103,6 +103,7 @@ img {
 	-o-transition: all .4s ease-in-out;
 	transition: all .4s ease-in-out;
 }
+
 .hor-center {
 	position: absolute;
 	left: 50%;

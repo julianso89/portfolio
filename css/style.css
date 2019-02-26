@@ -149,7 +149,7 @@ img {
 
 .section {
 	background-color: #fff;
-  	padding: 100px 0;
+  	padding: 70px 0;
 }
 .second-bg {
 	background-color: #fafafa;
@@ -761,6 +761,11 @@ Work
 	color: #ddd;
 	left: 26px;
 	bottom: 10px;
+}
+
+.appVideo {
+	margin: 10%;
+	margin-top: .1%; 
 }
 
 

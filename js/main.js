@@ -308,7 +308,7 @@ $(function() {
       textThree = "i can create awesome stuff";
 
     if (!!$.prototype.typer) {
-      text.typer([textOne, textTwo, textThree]);
+      text.typer([textOne, textTwo]);
     }
   }
 
